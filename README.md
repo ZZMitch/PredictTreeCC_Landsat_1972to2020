@@ -2,7 +2,7 @@
 
 **August 29, 2024**
 
-_Mapping canopy cover for municipal forestry monitoring: Using free Landsat imagery and machine learning_ has [been published](https://www.sciencedirect.com/science/article/pii/S1618866724002887?via%3Dihub). Zenodo data is publically accessible and the paper is available open access.
+[_Mapping canopy cover for municipal forestry monitoring: Using free Landsat imagery and machine learning_](https://www.sciencedirect.com/science/article/pii/S1618866724002887?via%3Dihub) has been published. Zenodo data is publically accessible and the paper is available open access.
 
 **June 26, 2024**
 
