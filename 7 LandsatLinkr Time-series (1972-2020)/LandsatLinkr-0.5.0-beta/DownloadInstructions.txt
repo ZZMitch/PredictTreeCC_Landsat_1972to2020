@@ -1,0 +1,8 @@
+https://jdbcode.github.io/LandsatLinkr/download.html
+
+Version 0.5.0 (beta) 4/26/18
+- Note: There is now a more recent Google Earth Engine version (https://github.com/gee-community/ee-LandsatLinkr)
+
+download.file("https://github.com/jdbcode/LandsatLinkr/releases/download/0.5.0-beta/LandsatLinkr_0.5.0.zip", "LandsatLinkr")
+install.packages("LandsatLinkr", repos=NULL, type="binary")
+install.packages(c("raster","SDMTools","doParallel","foreach","plyr","gdalUtils","rgdal","igraph","MASS"))
