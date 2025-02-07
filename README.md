@@ -1,5 +1,9 @@
 # PredictTreeCC_Landsat_1972to2020
 
+**February 7, 2025**
+
+[_Using Landsat time-series to investigate nearly 50 years of tree canopy cover change across an urban-rural landscape in southern Ontario_](https://www.tandfonline.com/doi/full/10.1080/07038992.2024.2445836) has been published in _Canadian Journal of Remote Sensing_.
+
 **December 21, 2024**
 
 Code from _Using Landsat time-series to investigate nearly 50 years of tree canopy cover change across an urban-rural landscape in southern Ontario_ added. Data from that paper are located [on Zenodo](https://zenodo.org/records/13983909). Paper has been accepted for publication in _Canadian Journal of Remote Sensing_. 
