@@ -1,6 +1,7 @@
 # PredictTreeCC_Landsat_1972to2020
 
 **February 06, 2026**
+
 [_Leveraging the Full Potential of Landsat to Investigate Inequalities in Post-Development Residential Canopy Cover (1972–2020)_](https://www.tandfonline.com/doi/full/10.1080/07038992.2026.2622730) has been published in _Canadian Journal of Remote Sensing_.
 
 **January 22, 2026**
