@@ -1,5 +1,8 @@
 # PredictTreeCC_Landsat_1972to2020
 
+**February 06, 2026**
+[_Leveraging the Full Potential of Landsat to Investigate Inequalities in Post-Development Residential Canopy Cover (1972–2020)_](https://www.tandfonline.com/doi/full/10.1080/07038992.2026.2622730) has been published in _Canadian Journal of Remote Sensing_.
+
 **January 22, 2026**
 
 Code from _Leveraging the full potential of Landsat to investigate inequalities in post-development residential canopy cover (1972-2020)_ added. Data from that paper are located [on Zenodo](https://zenodo.org/records/17620434). Paper has been accepted for publication in _Canadian Journal of Remote Sensing_. 
